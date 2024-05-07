@@ -1,7 +1,7 @@
 <?php 
 class Matakuliah extends CI_Controller { 
     public function index() { 
-        $this->load->view('Form_Matakuliah'); 
+        $this->load->view('Form_DLemas'); 
     } 
     public function cetak() { 
 
